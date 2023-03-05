@@ -1,0 +1,14 @@
+*.php
+*.html
+*.xml
+*.po
+*.mo
+*.json
+*.txt
+*.htaccess
+*.zip
+*.gz
+*.phtml
+*.html.gz
+*.bmp
+*.md
